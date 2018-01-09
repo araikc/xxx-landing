@@ -360,6 +360,7 @@ Main Menu CSS
     left: 0;
     top: 50;
     z-index: 1000;
+    width:100%;
 }
 .main-menu ul {
     padding: 0;
@@ -382,7 +383,7 @@ Main Menu CSS
     /*color: #333;*/
     color:white;
     font-size: 14px;
-    font-weight: 600;
+    font-weight: 400;
     text-transform: uppercase;
     transition: .5s;
 }
